@@ -35,11 +35,11 @@ export type TMembershipPlan = {
 };
 
 export const INSTITUTE_INFO = {
-  name: 'Shotokan Karate Institute',
-  description: 'A premier karate training center dedicated to excellence in martial arts education',
-  address: '123 Karate Street, Martial Arts City, 12345',
-  phone: '+1 (555) 123-4567',
-  email: 'info@shotokankarate.com',
+  name: 'Traditional Shotokan Karate Institute',
+  description: 'A premier affiliated karate training center dedicated to excellence in martial arts education',
+  address: 'Payyoli, Kozhikode, Kerala',
+  phone: '+91 9656303593',
+  email: 'aimindia@gmail.com',
   socialMedia: {
     facebook: 'https://facebook.com/shotokankarate',
     instagram: 'https://instagram.com/shotokankarate',
