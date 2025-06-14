@@ -100,12 +100,12 @@ export const COURSES: TCourse[] = [
 export const TRAINERS: TTrainer[] = [
   {
     id: 'trainer-1',
-    name: 'Sensei John Smith',
-    rank: '7th Dan Black Belt',
-    experience: '25+ years',
+    name: 'Kancho Masaya Kohama',
+    rank: '9th Degree Black Belt',
+    experience: '40+ years',
     specialization: ['Kata', 'Kumite', 'Self-defense'],
     image: '/images/trainers/sensei-john.jpg',
-    bio: 'Master John Smith has been teaching karate for over 25 years and has trained numerous national champions.',
+    bio: 'Grand Master Kancho Masaya Kohama has been teaching karate for over 40 years and has trained numerous national champions.',
   }, 
   {
     id: 'trainer-2',
@@ -114,7 +114,7 @@ export const TRAINERS: TTrainer[] = [
     experience: '15+ years',
     specialization: ['Kids Training', 'Kata', 'Fitness'],
     image: '/images/trainers/sensei-sarah.jpg',
-    bio: 'Sensei Sarah specializes in children\'s training and has developed unique methods to make karate fun and engaging for young students.',
+    bio: 'Ajith Kumar specializes in children\'s training and has developed unique methods to make karate fun and engaging for young students.',
   },
   {
     id: 'trainer-3',
@@ -123,7 +123,16 @@ export const TRAINERS: TTrainer[] = [
     experience: '15+ years',
     specialization: ['Kids Training', 'Kata', 'Fitness'],
     image: '/images/trainers/sajeer.jpg',
-    bio: 'Sensei Sarah specializes in children\'s training and has developed unique methods to make karate fun and engaging for young students.',
+    bio: 'Sajeev VP specializes in children\'s training and has developed unique methods to make karate fun and engaging for young students.',
+  },
+  {
+    id: 'trainer-4',
+    name: 'Sudheesh ER',
+    rank: '5th Dan Black Belt',
+    experience: '15+ years',
+    specialization: ['Kids Training', 'Kata', 'Fitness'],
+    image: '/images/trainers/sudheesh.jpg',
+    bio: 'Sudheesh ER specializes in children\'s training and has developed unique methods to make karate fun and engaging for young students.',
   },
 ];
 
